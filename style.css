@@ -1,0 +1,30 @@
+h1{
+    color: greenyellow;
+}
+*{
+   border: solid;
+}
+.header{
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.grid{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+h2{
+    color: blue;
+    text-align-last: center;
+}
+.item{
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 25px;
+    text-align: center;
+    width: 310px;
+}
